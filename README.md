@@ -36,4 +36,4 @@ The system is built using the Reactive SMA architecture and consists of the foll
 
 ## Author
 
-[OUKHELLOU SMAIL]
+OUKHELLOU SMAIL
